@@ -1,8 +1,4 @@
-# Team Micro
-
-# Conversational AI for Product related FAQs using Transformers(GPT-2) with Azure Services
-
-# APP SCREENSHOTS:
+# Conversational AI for Product related FAQs using Transformers with Azure Services
 
 ![Landing Page](https://github.com/prathameshparit/Dummy-Storage/blob/44e8bf3fdaac14964990537869066d627a2ec4f2/readme%20images/Conversational-AI-Bot-Azure/landing.png?raw=true)
 
