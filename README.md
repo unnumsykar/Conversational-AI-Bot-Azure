@@ -1,4 +1,4 @@
-# Conversational AI for Product related FAQs using Transformers with Azure Services
+# Conversational AI chatbot for handling product specific queries using transformers with Azure Services
 
 ![Landing Page](https://github.com/prathameshparit/Dummy-Storage/blob/44e8bf3fdaac14964990537869066d627a2ec4f2/readme%20images/Conversational-AI-Bot-Azure/landing.png?raw=true)
 
